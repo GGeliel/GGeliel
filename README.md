@@ -19,7 +19,7 @@ Hello World, I'm Gustavo. Welcome to my profile
 
 
 
-![snake gif](https://github.com/GGeliel/GGeliel/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 
 ###
