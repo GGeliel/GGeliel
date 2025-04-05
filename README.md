@@ -1,4 +1,5 @@
-# 💫 About Me:
+<div align='center'>
+
 Hello World, I'm Gustavo. Welcome to my profile
 
 
@@ -18,8 +19,7 @@ Hello World, I'm Gustavo. Welcome to my profile
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/GGeliel/GGeliel/blob/output/github-snake-dark.svg)
+</div>
 
 ###
