@@ -1,24 +1,8 @@
 <h2 align="left">Hello World, I'm Gustavo. Welcome to my profile</h2>
 
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/GGeliel">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GGeliel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGeliel&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBoMDN4eTBvNGo5Zms2Zm94cnVrdm1lODA3MXBzZmdwZjU5Mnd4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWozbDlkcHQxMjloaDl3bWFuem92MTdjdDQxbHIyNzQ2ZDRwdTNtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"  />
 
 ###
 
@@ -43,10 +27,12 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/GGeliel" target="_blank">
+  <a href="www.linkedin.com/in/ggeliel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
 
 
 
