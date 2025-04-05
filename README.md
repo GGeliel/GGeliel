@@ -49,6 +49,10 @@
 </div>
 
 
+
+
+
+
 ![snake gif](https://github.com/GGeliel/GGeliel/blob/output/github-contribution-grid-snake.gif)
 
 
