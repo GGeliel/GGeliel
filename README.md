@@ -1,7 +1,7 @@
 <div align='center'>
 
 # 💫 About Me:
-<h2>Hello World, I'm Gustavo. Welcome to my profile</h2>
+<h2>Hello World, I'm Gustavo. Welcome to my profile!</h2>
 
 
 ## 🌐 Socials:
